@@ -18,7 +18,7 @@ Project Related Files:
 
 - [Dataset](https://drive.google.com/drive/folders/1Y3m9E98m33v6L9AqWWgHlzvMA_TsyQBi?usp=sharing)
 - [Model](https://drive.google.com/file/d/13baW49-PkTC1uTu-5bAvhchrrqBl5xAA/view?usp=sharing)
-- [Video Explanation](https://drive.google.com/file/d/1QHGl7nJM-lukYF98eFhArpOYZLT3pSST/view?usp=sharing)
+
 
 Project by:
 -
