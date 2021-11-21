@@ -1,14 +1,13 @@
-# Brain Tumor Prediction Using CNN
+# Parkinson Disease Prediction
 
-In this project we have used Convolutional Neural Networks(CNN) to train a model that can predict if a MRI scan of the brain has a tumor or not  model trained using **IBM Cloud Services** and we have acheived over 95% accuracy and deployed it using a Flask Application
+In this project I have used Random Forest Classifier to train a model that can predict if a person has parkinson disease or healthy. The  model trained using **IBM Cloud Services** and we have acheived over 93% accuracy and deployed it using a Flask Application
 
 Libraries used:
--
-- [Tensorflow](https://www.tensorflow.org/)
+- scikit-learn (https://scikit-learn.org/)
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [Numpy](https://numpy.org/)
 - [Flask-WTF](https://flask-wtf.readthedocs.io/en/0.15.x/)
-- [Pillow(Python Imaging Library)](https://pillow.readthedocs.io/en/stable/#)
+
 
 Frameworks used:
 -
@@ -17,10 +16,10 @@ Frameworks used:
 Project Related Files:
 -
 
-- [Dataset](https://drive.google.com/drive/folders/1YYzKsrg2J7N0lGR3Z8i_mX7OA8uhCAT_?usp=sharing)
-- [Model](https://drive.google.com/file/d/1NH83hYtN99ct__d1oWDGjBoCMoGDOPga/view?usp=sharing)
+- [Dataset](https://drive.google.com/drive/folders/1Y3m9E98m33v6L9AqWWgHlzvMA_TsyQBi?usp=sharing)
+- [Model](https://drive.google.com/file/d/13baW49-PkTC1uTu-5bAvhchrrqBl5xAA/view?usp=sharing)
 - [Video Explanation](https://drive.google.com/file/d/1QHGl7nJM-lukYF98eFhArpOYZLT3pSST/view?usp=sharing)
 
 Project by:
 -
-- [Kalyan Mudumby](https://github.com/theinhumaneme)
+- [Kanimozhiselvi(https://github.com/keckanimozhi/SI-GuidedProject-2330-1622050371)
